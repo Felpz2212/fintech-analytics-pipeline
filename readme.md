@@ -39,17 +39,17 @@ Geração de Dados → Transformação (Python) → Modelagem (SQL) → Dashboar
 fintech-analytics-pipeline/
 │
 ├── data/
-│   ├── raw/
-│   ├── processed/
+│ ├── raw/
+│ ├── processed/
 │
 ├── src/
-│   ├── generate_data.py
-│   ├── transform.py
-│   ├── load.py
+│ ├── generate_data.py
+│ ├── transform.py
+│ ├── load.py
 │
 ├── sql/
-│   ├── create_tables.sql
-│   ├── analytics_queries.sql
+│ ├── create_tables.sql
+│ ├── analytics_queries.sql
 │
 ├── dashboard/
 │
